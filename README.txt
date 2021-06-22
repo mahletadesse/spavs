@@ -4,8 +4,7 @@ spavs is an R package implementing a stochastic partitioning method to relate tw
 
 Reference: 
 
-S. Monni and M.G. Tadesse. A stochastic partitioning method to associate high-dimensional responses and covariates (with discussion). 
-Bayesian Analysis, 4: 413-436, 2009.
+S. Monni and M.G. Tadesse. A stochastic partitioning method to associate high-dimensional responses and covariates (with discussion). Bayesian Analysis, 4: 413-436, 2009.
 https://doi.org/10.1214/09-BA416
 
 Installation
