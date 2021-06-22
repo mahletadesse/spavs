@@ -1,8 +1,6 @@
 spavs
 
-spavs is an R package implementing a stochastic partitioning method to relate two high-dimensional data sets using a mixture 
-of regression models with variable selection (Monni and Tadesse, 2009).  The package provides functions to draw posterior configurations
-and to calculate posterior probabilities. 
+spavs is an R package implementing a stochastic partitioning method to relate two high-dimensional data sets using a mixture of regression models with variable selection (Monni and Tadesse, 2009).  The package provides functions to draw posterior configurations and to calculate posterior probabilities. 
 
 Reference: 
 
